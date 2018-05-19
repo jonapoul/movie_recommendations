@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Catalogue>
+	<Title>Film Data</Title>
+
+	<Film>
+		<Name>Airplane!</Name>
+		<ImagePath>images/films/Airplane.jpg</ImagePath>
+		<Calm>60</Calm>
+		<Happy>95</Happy>
+		<Awake>70</Awake>
+		<Fearless>60</Fearless>
+		<Year>1980</Year>
+	</Film>
+
+	<Film>
+		<Name>Anchorman: The Legend of Ron Burgundy</Name>
+		<ImagePath>images/films/Anchorman.jpg</ImagePath>
+		<Calm>55</Calm>
+		<Happy>85</Happy>
+		<Awake>50</Awake>
+		<Fearless>70</Fearless>
+		<Year>2004</Year>
+	</Film>
+
+	<Film>
+		<Name>Captain Fantastic</Name>
+		<ImagePath>images/films/Captain_Fantastic.jpg</ImagePath>
+		<Calm>80</Calm>
+		<Happy>40</Happy>
+		<Awake>20</Awake>
+		<Fearless>40</Fearless>
+		<Year>2016</Year>
+	</Film>
+
+	<Film>
+		<Name>Collateral</Name>
+		<ImagePath>images/films/Collateral.jpg</ImagePath>
+		<Calm>20</Calm>
+		<Happy>50</Happy>
+		<Awake>60</Awake>
+		<Fearless>85</Fearless>
+		<Year>2004</Year>
+	</Film>
+
+   <Film>
+      <Name>Dunkirk</Name>
+      <ImagePath>images/films/Dunkirk.jpg</ImagePath>
+      <Calm>10</Calm>
+      <Happy>20</Happy>
+      <Awake>90</Awake>
+      <Fearless>50</Fearless>
+      <Year>2017</Year>
+   </Film>
+
+	<Film>
+		<Name>Four Lions</Name>
+		<ImagePath>images/films/Four_Lions.jpg</ImagePath>
+		<Calm>25</Calm>
+		<Happy>75</Happy>
+		<Awake>40</Awake>
+		<Fearless>50</Fearless>
+		<Year>2010</Year>
+	</Film>
+
+	<Film>
+		<Name>Frank</Name>
+		<ImagePath>images/films/Frank.jpg</ImagePath>
+		<Calm>70</Calm>
+		<Happy>25</Happy>
+		<Awake>30</Awake>
+		<Fearless>30</Fearless>
+		<Year>2014</Year>
+	</Film>
+
+   <Film>
+      <Name>Get Out</Name>
+      <ImagePath>images/films/Get_Out.jpg</ImagePath>
+      <Calm>10</Calm>
+      <Happy>50</Happy>
+      <Awake>60</Awake>
+      <Fearless>5</Fearless>
+      <Year>2017</Year>
+   </Film>
+
+   <Film>
+      <Name>GoodFellas</Name>
+      <ImagePath>images/films/Goodfellas.jpg</ImagePath>
+      <Calm>30</Calm>
+      <Happy>30</Happy>
+      <Awake>50</Awake>
+      <Fearless>80</Fearless>
+      <Year>1990</Year>
+   </Film>
+
+	<Film>
+		<Name>Gran Torino</Name>
+		<ImagePath>images/films/Gran_Torino.jpg</ImagePath>
+		<Calm>20</Calm>
+		<Happy>20</Happy>
+		<Awake>40</Awake>
+		<Fearless>80</Fearless>
+		<Year>2008</Year>
+	</Film>
+
+   <Film>
+      <Name>Green Room</Name>
+      <ImagePath>images/films/Green_Room.jpg</ImagePath>
+      <Calm>10</Calm>
+      <Happy>20</Happy>
+      <Awake>70</Awake>
+      <Fearless>10</Fearless>
+      <Year>2015</Year>
+   </Film>
+
+	<Film>
+		<Name>Hard Boiled</Name>
+		<ImagePath>images/films/Hard_Boiled.jpg</ImagePath>
+		<Calm>40</Calm>
+		<Happy>30</Happy>
+		<Awake>75</Awake>
+		<Fearless>90</Fearless>
+		<Year>1992</Year>
+	</Film>
+
+   <Film>
+      <Name>Hunger</Name>
+      <ImagePath>images/films/Hunger.jpg</ImagePath>
+      <Calm>10</Calm>
+      <Happy>20</Happy>
+      <Awake>90</Awake>
+      <Fearless>20</Fearless>
+      <Year>2008</Year>
+   </Film>
+
+	<Film>
+		<Name>In Bruges</Name>
+		<ImagePath>images/films/In_Bruges.jpg</ImagePath>
+		<Calm>70</Calm>
+		<Happy>60</Happy>
+		<Awake>60</Awake>
+		<Fearless>50</Fearless>
+		<Year>2008</Year>
+	</Film>
+
+   <Film>
+      <Name>Lord of the Rings: Fellowship of the Ring</Name>
+      <ImagePath>images/films/LOTR_FOTR.jpg</ImagePath>
+      <Calm>80</Calm>
+      <Happy>60</Happy>
+      <Awake>20</Awake>
+      <Fearless>50</Fearless>
+      <Year>2001</Year>
+   </Film>
+
+	<Film>
+		<Name>Mr Bean's Holiday</Name>
+		<ImagePath>images/films/Mr_Beans_Holiday.jpg</ImagePath>
+		<Calm>80</Calm>
+		<Happy>95</Happy>
+		<Awake>40</Awake>
+		<Fearless>50</Fearless>
+		<Year>2007</Year>
+	</Film>
+
+	<Film>
+		<Name>Ocean's Eleven</Name>
+		<ImagePath>images/films/Oceans_Eleven.jpg</ImagePath>
+		<Calm>80</Calm>
+		<Happy>70</Happy>
+		<Awake>70</Awake>
+		<Fearless>70</Fearless>
+		<Year>2001</Year>
+	</Film>
+
+	<Film>
+		<Name>Pacific Rim</Name>
+		<ImagePath>images/films/Pacific_Rim.jpg</ImagePath>
+		<Calm>55</Calm>
+		<Happy>90</Happy>
+		<Awake>80</Awake>
+		<Fearless>90</Fearless>
+		<Year>2013</Year>
+	</Film>
+
+	<Film>
+		<Name>Paterson</Name>
+		<ImagePath>images/films/Paterson.jpg</ImagePath>
+		<Calm>100</Calm>
+		<Happy>80</Happy>
+		<Awake>10</Awake>
+		<Fearless>20</Fearless>
+		<Year>2016</Year>
+	</Film>
+
+   <Film>
+      <Name>Shame</Name>
+      <ImagePath>images/films/Shame.jpg</ImagePath>
+      <Calm>70</Calm>
+      <Happy>10</Happy>
+      <Awake>30</Awake>
+      <Fearless>50</Fearless>
+      <Year>2015</Year>
+   </Film>
+
+	<Film>
+		<Name>Snatch</Name>
+		<ImagePath>images/films/Snatch.jpg</ImagePath>
+		<Calm>60</Calm>
+		<Happy>70</Happy>
+		<Awake>55</Awake>
+		<Fearless>70</Fearless>
+		<Year>2000</Year>
+	</Film>
+
+	<Film>
+		<Name>Submarine</Name>
+		<ImagePath>images/films/Submarine.jpg</ImagePath>
+		<Calm>90</Calm>
+		<Happy>45</Happy>
+		<Awake>20</Awake>
+		<Fearless>25</Fearless>
+		<Year>2010</Year>
+	</Film>
+
+	<Film>
+		<Name>Superbad</Name>
+		<ImagePath>images/films/Superbad.jpg</ImagePath>
+		<Calm>65</Calm>
+		<Happy>80</Happy>
+		<Awake>75</Awake>
+		<Fearless>60</Fearless>
+		<Year>2007</Year>
+	</Film>
+
+	<Film>
+		<Name>Terminator 2</Name>
+		<ImagePath>images/films/Terminator_2.jpg</ImagePath>
+		<Calm>40</Calm>
+		<Happy>30</Happy>
+		<Awake>80</Awake>
+		<Fearless>80</Fearless>
+		<Year>1991</Year>
+	</Film>
+
+	<Film>
+		<Name>The Guard</Name>
+		<ImagePath>images/films/The_Guard.jpg</ImagePath>
+		<Calm>80</Calm>
+		<Happy>60</Happy>
+		<Awake>30</Awake>
+		<Fearless>60</Fearless>
+		<Year>2011</Year>
+	</Film>
+
+   <Film>
+      <Name>The Lobster</Name>
+      <ImagePath>images/films/The_Lobster.jpg</ImagePath>
+      <Calm>50</Calm>
+      <Happy>40</Happy>
+      <Awake>30</Awake>
+      <Fearless>20</Fearless>
+      <Year>2015</Year>
+   </Film>
+
+	<Film>
+		<Name>The Terminal</Name>
+		<ImagePath>images/films/The_Terminal.jpg</ImagePath>
+		<Calm>95</Calm>
+		<Happy>80</Happy>
+		<Awake>30</Awake>
+		<Fearless>40</Fearless>
+		<Year>2004</Year>
+	</Film>
+
+	<Film>
+		<Name>The Truman Show</Name>
+		<ImagePath>images/films/The_Truman_Show.jpg</ImagePath>
+		<Calm>50</Calm>
+		<Happy>60</Happy>
+		<Awake>40</Awake>
+		<Fearless>25</Fearless>
+		<Year>1998</Year>
+	</Film>
+
+	<Film>
+		<Name>Toy Story</Name>
+		<ImagePath>images/films/Toy_Story.jpg</ImagePath>
+		<Calm>80</Calm>
+		<Happy>60</Happy>
+		<Awake>50</Awake>
+		<Fearless>40</Fearless>
+		<Year>1995</Year>
+	</Film>
+
+   <Film>
+      <Name>Walk Hard: The Dewey Cox Story</Name>
+      <ImagePath>images/films/Walk_Hard.jpg</ImagePath>
+      <Calm>60</Calm>
+      <Happy>80</Happy>
+      <Awake>30</Awake>
+      <Fearless>50</Fearless>
+      <Year>1990</Year>
+   </Film>
+
+	<Film>
+		<Name>Wall-E</Name>
+		<ImagePath>images/films/Wall-E.jpg</ImagePath>
+		<Calm>70</Calm>
+		<Happy>50</Happy>
+		<Awake>40</Awake>
+		<Fearless>60</Fearless>
+		<Year>2008</Year>
+	</Film>
+
+</Catalogue>
