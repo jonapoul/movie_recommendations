@@ -1,4 +1,4 @@
-# Movie Recommendations
+# Sky Movies Recommendations
 
 This application was mostly tested with Firefox 58.0.1 on Ubuntu. As such, I
 recommend that you judge it on that browser/platform combination, if possible.
